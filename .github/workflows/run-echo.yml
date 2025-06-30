@@ -1,4 +1,4 @@
-Name: Echo
+name: Run Echo
 
 on:
   push:
