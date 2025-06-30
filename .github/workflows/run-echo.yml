@@ -7,6 +7,6 @@ on:
 
 jobs:
   run-test-version:
-    uses: Michael-Le-3653/test-version/.github/workflows/echo.yml@1.0.1
+    uses: Michael-Le-3653/test-version/.github/workflows/echo.yml@1.0.2
 
 
