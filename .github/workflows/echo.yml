@@ -1,0 +1,12 @@
+Name: Echo
+
+on:
+  push:
+    branches: 
+      - main
+
+jobs:
+  run-test-version:
+    uses: Michael-Le-3653/test-version/.github/workflows/echo.yml@1.0.0
+
+
